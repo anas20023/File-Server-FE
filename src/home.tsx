@@ -1,6 +1,5 @@
-/* eslint-disable prefer-const */
 /* eslint-disable @typescript-eslint/no-unused-vars */
-// src/Home.tsx
+/* eslint-disable prefer-const */
 import React, { useState } from 'react';
 import { signInWithEmailAndPassword } from 'firebase/auth';
 import { useNavigate } from 'react-router-dom';
